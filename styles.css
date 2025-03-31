@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #283149;
+  background-color: #249d8f;
 }
 
 h1 {
@@ -73,4 +73,9 @@ footer {
   text-align: center;
   margin: 10px;
   background-color: white;
+}
+.drum:hover{ 
+  border: 13px solid rgb(62, 1, 6); 
+  cursor: pointer;
+  color: #ff003c; 
 }
